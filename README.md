@@ -1,7 +1,7 @@
-# OpenR8 AI Software
+# LEADERG AI ZOO - AI Algorithms and Solutions
 
-OpenR8 AI software is with web user interface for AI algorithms which makes AI easy.
+LEADERG AI ZOO is with web user interface for AI algorithms which makes AI easy.
 
-This software package is more than 40GB. Please visit the following URL to download.
+This software package is more than 30GB. Please visit the following URL to download.
 
-Community Edition Free Download URL: https://www.openrobot.club/article/index?sn=10935
+URL: https://www.openrobot.org/article/index?sn=10935
