@@ -1,7 +1,7 @@
 # LEADERG AI ZOO (AI Software, AI Algorithms and Solutions, AI model zoo, Make AI Easy)
 
-LEADERG AI ZOO is with web user interface for AI algorithms which makes AI easy.
+LEADERG AI ZOO provides a variety of useful artificial intelligence algorithms and solutions, which can be applied to product defect detection, medical image analysis, artificial intelligence teaching, crime detection and prevention, access control attendance, health care, public safety, etc.
 
-This software package is more than 30GB. Please visit the following URL for the detail.
+Please visit the following URL for the detail.
 
 URL: https://www.openrobot.org/leaderg-ai-zoo
