@@ -4,4 +4,4 @@ LEADERG AI ZOO provides a variety of useful artificial intelligence algorithms a
 
 Please visit the following URL for the detail.
 
-URL: https://www.leaderg.com/leaderg-ai-zoo
+URL: https://www.leaderg.com/ai-zoo
