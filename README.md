@@ -1,4 +1,4 @@
-# LEADERG App4AI (AI Software, AI Algorithms and Solutions, AI model zoo, Make AI Easy)
+# LEADERG App4AI (AI Software, AI APPs and SDKs, AI model zoo, Making AI Easy)
 
 Making AI easy to save development time. Reducing the technical barriers to AI. Packaging state-of-the-art AI algorithms into Windows APP user interface. And you can use AI even if you don’t know how to do the programing. Easy to learn and use. No experience required. You can use AI algorithms in just one day.
 
