@@ -6,4 +6,4 @@ It can be used in product defect detection, medical image analysis, artificial i
 
 Please visit the following URL for the detail.
 
-URL: https://www.leaderg.com/appsforai
+URL: https://www.leaderg.com/appsforai-windows
