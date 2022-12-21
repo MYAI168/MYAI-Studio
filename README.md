@@ -11,5 +11,7 @@ It can be used in product defect detection, medical image analysis, artificial i
 Please visit the following URL for the detail.
 
 Download links:
+
 https://www.leaderg.com/appsforai-windows
+
 https://www.leaderg.com/appsforai-linux
