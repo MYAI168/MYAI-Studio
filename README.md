@@ -12,6 +12,4 @@ Please visit the following URL for the detail.
 
 Download links:
 
-https://www.myai168.com/myaistudio-windows
-
-https://www.myai168.com/myaistudio-linux
+https://www.myai168.com/myaistudio
