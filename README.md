@@ -10,6 +10,6 @@ It can be used in product defect detection, medical image analysis, artificial i
 
 Please visit the following URL for the detail.
 
-Download links:
+Download link:
 
 https://www.myai168.com/myaistudio
