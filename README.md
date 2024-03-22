@@ -1,4 +1,4 @@
-# LEADERG AppForAI (AI Software, AI APPs and SDKs, AI Model Zoo, Making AI Easy)
+# MYAI Studio (AI Software, AI APPs and SDKs, AI Model Zoo, Making AI Easy)
 
 Making AI easy to save development time. Reducing the technical barriers to AI. Packaging state-of-the-art AI algorithms into Windows APP user interface. And you can use AI even if you don’t know how to do the programing. Easy to learn and use. No experience required. You can use AI algorithms in just one day.
 
@@ -12,6 +12,6 @@ Please visit the following URL for the detail.
 
 Download links:
 
-https://www.leaderg.com/appforai-windows
+https://www.myai168.com/myaistudio-windows
 
-https://www.leaderg.com/appforai-linux
+https://www.myai168.com/myaistudio-linux
